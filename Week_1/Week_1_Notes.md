@@ -132,16 +132,6 @@ const flatten = function(arr) {
 
 </details>
 
-<details>
-<summary></summary>
-</details>
-
-
-<details>
-<summary></summary>
-</details>
-
-
 ## Other notes
 * Template literals are a time saver!
 
